@@ -1,4 +1,4 @@
-# Web socket tutorial series 
+# Websocket tutorial series 
 
 Author:
 
